@@ -1,0 +1,23 @@
+#main-doc {
+  display: flex;
+  width: 100%;
+}
+.nav-links {
+  border-right: 2px solid gray;
+  padding: 1rem 1.5rem;
+  width: 30%;
+}
+.main-content {
+  padding: 2rem;
+  width: 70%;
+}
+#navbar h1 {
+  color: green;
+  font-size: 2rem;
+}
+.nav-link {
+  border-top: 2px solid gray;
+  display: flex;
+  flex-direction: column;
+  padding: .5rem;
+}
